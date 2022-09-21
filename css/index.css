@@ -1,0 +1,22 @@
+.bg-login-image {
+    background: url("../img/bg-login.jpg");    
+    background-position: center;
+    background-size: cover;
+    border: 10px;
+}
+.container-fluid{
+    background-color: #0d6efd;
+}
+
+
+.btn-primary{
+     background: red;
+     padding: 8px 20px;
+          
+}
+.btn{
+    border: 10px;
+}
+
+
+    
